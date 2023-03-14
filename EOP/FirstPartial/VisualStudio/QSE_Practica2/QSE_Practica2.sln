@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QSE_Practica2", "QSE_Practica2\QSE_Practica2.csproj", "{63A532EB-7B41-46B8-AEE1-A03F979E48BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A532EB-7B41-46B8-AEE1-A03F979E48BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A532EB-7B41-46B8-AEE1-A03F979E48BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A532EB-7B41-46B8-AEE1-A03F979E48BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A532EB-7B41-46B8-AEE1-A03F979E48BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7944DAC6-0669-4784-8533-CA1B49F7F267}
+	EndGlobalSection
+EndGlobal

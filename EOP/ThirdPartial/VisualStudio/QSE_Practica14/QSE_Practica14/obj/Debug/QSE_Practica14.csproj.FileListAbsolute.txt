@@ -1,0 +1,10 @@
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\bin\Debug\QSE_Practica14.exe.config
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\bin\Debug\QSE_Practica14.exe
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\bin\Debug\QSE_Practica14.pdb
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.csprojAssemblyReference.cache
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.frmQSE_Practica14.resources
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.Properties.Resources.resources
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.csproj.GenerateResource.cache
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.csproj.CoreCompileInputs.cache
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.exe
+J:\CETI\Third\EOP\ThirdPartial\VisualStudio\QSE_Practica14\QSE_Practica14\obj\Debug\QSE_Practica14.pdb

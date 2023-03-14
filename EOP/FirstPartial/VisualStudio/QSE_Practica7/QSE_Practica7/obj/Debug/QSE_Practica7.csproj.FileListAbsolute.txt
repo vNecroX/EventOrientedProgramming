@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\bin\Debug\QSE_Practica7.exe.config
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\bin\Debug\QSE_Practica7.exe
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\bin\Debug\QSE_Practica7.pdb
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.frmQSE_Practica7.resources
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.Properties.Resources.resources
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.exe
+C:\Users\Admin\Downloads\POE\1RO\QSE_Practica7\QSE_Practica7\obj\Debug\QSE_Practica7.pdb
